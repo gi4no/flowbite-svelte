@@ -35,6 +35,8 @@ export type ToolbarColorType = 'gray' | 'red' | 'yellow' | 'green' | 'indigo' | 
 
 export type ToolbarButtonType = 'dark' | 'default' | 'gray' | 'red' | 'yellow' | 'green' | 'indigo' | 'purple' | 'pink' | 'blue';
 
+export type StepperColorType = "alternative" | "blue" | "dark" | "green" | "light" | "primary" | "purple" | "red" | "yellow" | "none"
+
 export declare const xs = 'xs';
 export declare const sm = 'sm';
 export declare const md = 'md';

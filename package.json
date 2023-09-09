@@ -586,6 +586,10 @@
       "types": "./dist/spinners/Spinner.svelte.d.ts",
       "svelte": "./dist/spinners/Spinner.svelte"
     },
+    "./Stepper.svelte": {
+      "types": "./dist/stepper/Stepper.svelte.d.ts",
+      "svelte": "./dist/stepper/Stepper.svelte"
+    },
     "./StepIndicator.svelte": {
       "types": "./dist/steps/StepIndicator.svelte.d.ts",
       "svelte": "./dist/steps/StepIndicator.svelte"
